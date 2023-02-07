@@ -1,4 +1,4 @@
-# Serre connectée d'intérieur AmicaTech 
+# Serre connectée d'intérieur AmicaPlant
 
 Notre projet est une serre d'intérieur connectée et automatisée, donc qui permet de faire pousser des plantes, donc des aromates, des fleurs, ou simplement des plantes décoratives en intérieur mais en contrôlant tous les paramètres et l'entretien de la plante de façon connectée. 
 
