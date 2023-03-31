@@ -18,6 +18,11 @@ Vidéo de démonstration / Demo video :
 
 https://user-images.githubusercontent.com/120385973/229153455-96303928-5e5a-4530-bb52-85f10c074047.mp4
 
+Credits for the images used in the app :
+https://www.freepik.com/free-vector/cute-collection-cactus-watercolor_10122442.htm#query=succulent%20pot&position=12&from_view=keyword
+Image by Vectonauta on Freepik
+https://icons8.com/icons/set/button--static--c-b3d9be
+
 
  
 
